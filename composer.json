@@ -78,6 +78,12 @@
             "wikimedia/composer-merge-plugin": true
         }
     },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "modules/*"
+        }
+    ],
     "minimum-stability": "stable",
     "prefer-stable": true
 }
