@@ -1,0 +1,1 @@
+import{_ as o,b as a,d as s,o as t}from"./App-CY2XhdyM.js";const n={name:"payroll-base"};function r(p,c,l,_,m,d){const e=s("page-base");return t(),a(e,{"module-name":"payroll","module-key":"payroll","module-type":"administrator"})}const f=o(n,[["render",r]]);export{f as default};
