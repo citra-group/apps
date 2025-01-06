@@ -1,1 +1,0 @@
-import{_ as a,b as n,w as s,d as l,o as d,e as m,E as r}from"./App-CY2XhdyM.js";const c={name:"system-user-edit"};function _(p,u,i,f,V,x){const o=l("form-edit");return d(),n(o,null,{default:s(({record:e})=>[m(r,{modelValue:e.name,"onUpdate:modelValue":t=>e.name=t},null,8,["modelValue","onUpdate:modelValue"])]),_:1})}const h=a(c,[["render",_]]);export{h as default};
