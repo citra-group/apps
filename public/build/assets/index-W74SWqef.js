@@ -1,0 +1,1 @@
+import{_ as a,b as t,w as n,d as s,o as r}from"./App-CY2XhdyM.js";const p={name:"payroll-dashboard"};function d(l,e,_,c,m,i){const o=s("page-home");return r(),t(o,{"page-name":"payroll-dashboard","page-title":"Untitled"},{default:n(()=>e[0]||(e[0]=[])),_:1})}const u=a(p,[["render",d]]);export{u as default};
