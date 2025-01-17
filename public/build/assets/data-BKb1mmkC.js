@@ -1,1 +1,0 @@
-import{_ as s,b as r,w as o,d as n,o as a}from"./App-BnDosOKi.js";const f={name:"system-role-crete"};function m(p,t,d,i,l,_){const e=n("form-data");return a(),r(e,{subtitle:"username"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const x=s(f,[["render",m]]);export{x as default};
