@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as a,o as s}from"./App-BkRcGB0s.js";const f={name:"coperative-yearbook-data"};function p(d,o,i,m,l,_){const e=a("form-data");return s(),r(e,null,{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const x=n(f,[["render",p]]);export{x as default};

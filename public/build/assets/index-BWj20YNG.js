@@ -1,1 +1,0 @@
-import{_ as n,b as t,w as a,d as r,o as p}from"./App-DwYYa9UH.js";const s={name:"human-report"};function _(c,e,m,d,f,l){const o=r("page-blank");return p(),t(o,{"page-name":"human-report","page-key":"report"},{default:a(()=>e[0]||(e[0]=[])),_:1})}const i=n(s,[["render",_]]);export{i as default};
