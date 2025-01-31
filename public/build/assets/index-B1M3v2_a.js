@@ -1,1 +1,0 @@
-import{_ as n,b as o,d as t,o as c}from"./App-C1k4fe9Q.js";const a={name:"reference-notification"};function r(s,i,p,_,f,d){const e=t("page-crud");return c(),o(e,{"page-name":"reference-notification","page-key":"notification"})}const u=n(a,[["render",r]]);export{u as default};
