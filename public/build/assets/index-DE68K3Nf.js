@@ -1,0 +1,1 @@
+import{_ as a,b as n,w as r,d as t,o as s}from"./App-2L2MPwqc.js";const p={name:"reference-dashboard"};function c(d,e,_,f,m,i){const o=t("page-home");return s(),n(o,{"page-name":"reference-dashboard"},{default:r(()=>e[0]||(e[0]=[])),_:1})}const u=a(p,[["render",c]]);export{u as default};

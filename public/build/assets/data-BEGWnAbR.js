@@ -1,1 +1,0 @@
-import{_ as n,b as r,w as o,d as a,o as s}from"./App-CoFVa590.js";const f={name:"reference-marital-data"};function d(p,t,m,i,l,_){const e=a("form-data");return s(),r(e,null,{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const x=n(f,[["render",d]]);export{x as default};
