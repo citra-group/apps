@@ -1,1 +1,0 @@
-import{_ as a,b as o,d as n,o as t}from"./App-DC9NxCAl.js";const p={name:"mycoperative-payment"};function c(r,s,m,_,d,i){const e=n("page-crud");return t(),o(e,{"page-name":"mycoperative-payment","page-key":"payment"})}const u=a(p,[["render",c]]);export{u as default};

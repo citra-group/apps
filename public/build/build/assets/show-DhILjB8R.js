@@ -1,0 +1,1 @@
+import{_ as o,b as t,w as s,d as r,o as a,e as c,s as n}from"./App-jUSSjO6J.js";const _={name:"infrastructure-assign-show",data(){return{}},methods:{}};function d(p,f,m,i,u,h){const e=r("form-create");return a(),t(e,{"with-helpdesk":""},{default:s(({combos:{},record:l,store:w})=>[c(n)]),_:1})}const $=o(_,[["render",d]]);export{$ as default};
