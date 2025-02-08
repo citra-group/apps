@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as s,o as a}from"./App-DC9NxCAl.js";const f={name:"reference-gender-data"};function d(p,o,m,i,l,_){const e=s("form-data");return a(),r(e,null,{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const x=n(f,[["render",d]]);export{x as default};
