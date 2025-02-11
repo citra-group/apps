@@ -1,1 +1,0 @@
-import{_ as s,b as n,w as o,d as r,o as a}from"./App-C75hITPI.js";const p={name:"system-module-crete"};function f(d,t,m,i,l,u){const e=r("form-data");return a(),n(e,{chip:"type",subtitle:"slug"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const c=s(p,[["render",f]]);export{c as default};
