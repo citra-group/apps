@@ -1,1 +1,0 @@
-import{_ as n,b as a,d as r,o}from"./App-0_bTGyRF.js";const t={name:"human-partner"};function p(c,s,_,m,d,u){const e=r("page-crud");return o(),a(e,{"page-name":"human-partner","page-key":"partner"})}const i=n(t,[["render",p]]);export{i as default};
