@@ -1,1 +1,0 @@
-import{_ as o,b as t,d as a,o as p}from"./App-BGxaph2H.js";const c={name:"mycoperative-deposit"};function n(s,r,_,d,i,m){const e=a("page-crud");return p(),t(e,{"page-name":"mycoperative-deposit","page-key":"deposit"})}const u=o(c,[["render",n]]);export{u as default};

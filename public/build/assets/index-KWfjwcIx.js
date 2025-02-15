@@ -1,1 +1,0 @@
-import{_ as n,b as o,d as a,o as s}from"./App-BGxaph2H.js";const t={name:"human-customersubkind"};function r(c,u,m,p,d,_){const e=a("page-crud");return s(),o(e,{"page-name":"human-customersubkind","page-key":"customersubkind","parent-name":"human-customerkind","parent-key":"customerkind"})}const k=n(t,[["render",r]]);export{k as default};

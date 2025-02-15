@@ -1,1 +1,0 @@
-import{_ as s,b as r,w as o,d as a,o as e}from"./App-BGxaph2H.js";const d={name:"system-auditor-data"};function f(p,t,m,i,l,_){const n=a("form-data");return e(),r(n,null,{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const x=s(d,[["render",f]]);export{x as default};
