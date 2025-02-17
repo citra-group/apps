@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as s,o as a}from"./App-fNvSmfwW.js";const f={name:"reference-province-data"};function p(d,o,i,m,l,_){const e=s("form-data");return a(),r(e,null,{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const c=n(f,[["render",p]]);export{c as default};

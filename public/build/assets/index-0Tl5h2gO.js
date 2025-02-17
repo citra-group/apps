@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as r,o as c}from"./App-D3npthgT.js";const n={name:"coperative-yearbook"};function t(p,s,_,d,i,m){const e=r("page-crud");return c(),a(e,{"page-name":"coperative-yearbook","page-key":"yearbook"})}const k=o(n,[["render",t]]);export{k as default};
