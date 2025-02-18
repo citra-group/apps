@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as n,o as t}from"./App-BftOCKfq.js";const p={name:"coperative-paymentmode"};function c(r,s,m,_,d,i){const e=n("page-crud");return t(),a(e,{"page-name":"coperative-paymentmode","page-key":"paymentmode"})}const u=o(p,[["render",c]]);export{u as default};
