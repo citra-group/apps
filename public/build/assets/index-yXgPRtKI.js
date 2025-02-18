@@ -1,0 +1,1 @@
+import{_ as o,b as n,d as a,o as p}from"./App-BWLS-LVu.js";const c={name:"human-employee"};function t(r,s,m,_,d,u){const e=a("page-crud");return p(),n(e,{"page-name":"human-employee","page-key":"employee"})}const f=o(c,[["render",t]]);export{f as default};
