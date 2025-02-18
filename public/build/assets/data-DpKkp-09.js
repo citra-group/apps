@@ -1,1 +1,0 @@
-import{_ as n,b as r,w as o,d as a,o as e}from"./App-B-xsBJjS.js";const p={name:"infrastructure-assign-data"};function f(i,t,d,m,u,l){const s=a("form-data");return e(),r(s,{chip:"slug"},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=n(p,[["render",f]]);export{c as default};
