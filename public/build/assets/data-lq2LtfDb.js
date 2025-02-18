@@ -1,0 +1,1 @@
+import{_ as s,b as r,w as t,d as a,o as e}from"./App-B-xsBJjS.js";const p={name:"human-customerkind-data"};function d(m,o,f,i,u,l){const n=a("form-data");return e(),r(n,{chip:"slug"},{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const c=s(p,[["render",d]]);export{c as default};

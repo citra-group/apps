@@ -1,0 +1,1 @@
+import{_ as o,b as n,d as r,o as s}from"./App-B-xsBJjS.js";const c={name:"reference-profession"};function a(p,t,_,f,d,i){const e=r("page-crud");return s(),n(e,{"page-name":"reference-profession","page-key":"profession"})}const u=o(c,[["render",a]]);export{u as default};
