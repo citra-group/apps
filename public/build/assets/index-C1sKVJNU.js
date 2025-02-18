@@ -1,1 +1,0 @@
-import{_ as r,b as n,d as o,o as t}from"./App-DqVjiyPa.js";const a={name:"infrastructure-member"};function c(s,p,m,_,u,d){const e=o("page-crud");return t(),n(e,{"page-name":"infrastructure-member","page-key":"member"})}const i=r(a,[["render",c]]);export{i as default};
