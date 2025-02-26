@@ -1,0 +1,1 @@
+import{_ as o,b as t,d as n,o as a}from"./App-Co8oq2eg.js";const c={name:"human-customertype"};function r(s,p,m,_,u,d){const e=n("page-crud");return a(),t(e,{"page-name":"human-customertype","page-key":"customertype"})}const i=o(c,[["render",r]]);export{i as default};

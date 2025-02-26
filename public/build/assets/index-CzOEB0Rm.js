@@ -1,0 +1,1 @@
+import{_ as o,b as t,d as a,o as s}from"./App-Co8oq2eg.js";const n={name:"system-auditor"};function r(c,p,_,d,m,u){const e=a("page-crud");return s(),t(e,{"page-name":"system-auditor","page-key":"auditor"})}const f=o(n,[["render",r]]);export{f as default};
