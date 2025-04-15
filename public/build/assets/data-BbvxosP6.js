@@ -1,0 +1,1 @@
+import{_ as n,b as r,w as t,d as a,o as s}from"./App-CjoH1pZn.js";const f={name:"reference-bornplace-data"};function p(d,o,l,m,i,_){const e=a("form-data");return s(),r(e,null,{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const c=n(f,[["render",p]]);export{c as default};
