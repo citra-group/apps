@@ -1,1 +1,0 @@
-import{_ as t,b as a,d as o,o as r}from"./App-YoK9HzS4.js";const s={name:"infrastructure-base"};function n(c,p,u,_,m,d){const e=o("page-base");return r(),a(e,{"module-name":"infrastructure","module-key":"infrastructure","module-type":"administrator"})}const i=t(s,[["render",n]]);export{i as default};
