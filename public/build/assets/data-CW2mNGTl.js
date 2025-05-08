@@ -1,0 +1,1 @@
+import{_ as n,b as e,w as o,d as s,o as a}from"./App-Y1uS_7oZ.js";const d={name:"infrastructure-unit-data"};function f(i,t,p,m,u,_){const r=s("form-data");return a(),e(r,{"hide-create":""},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=n(d,[["render",f]]);export{c as default};
