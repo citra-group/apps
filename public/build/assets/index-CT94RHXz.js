@@ -1,0 +1,1 @@
+import{_ as t,b as a,d as o,o as p}from"./App-Cudkbs0w.js";const n={name:"coperative-paymenttype"};function c(r,s,_,m,d,i){const e=o("page-crud");return p(),a(e,{"page-name":"coperative-paymenttype","page-key":"paymenttype"})}const f=t(n,[["render",c]]);export{f as default};

@@ -1,0 +1,1 @@
+import{_ as t,b as o,w as r,e as s,l as a,d as c,o as n}from"./App-Cudkbs0w.js";const d={name:"infrastructure-assign-edit",data(){return{}},methods:{}};function _(p,f,i,m,u,l){const e=c("form-create");return n(),o(e,{"with-helpdesk":""},{default:r(({combos:{},record:h,store:x})=>[s(a)]),_:1})}const k=t(d,[["render",_]]);export{k as default};
