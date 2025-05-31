@@ -1,0 +1,1 @@
+import{_ as t,b as a,w as n,d as s,o as r}from"./App-Da-KJahm.js";const p={name:"myreservation-dashboard"};function d(m,e,_,c,i,f){const o=s("page-home");return r(),a(o,{"page-name":"myreservation-dashboard","page-title":"Untitled"},{default:n(()=>e[0]||(e[0]=[])),_:1})}const u=t(p,[["render",d]]);export{u as default};

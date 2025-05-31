@@ -1,0 +1,1 @@
+import{_ as a,b as n,d as o,o as r}from"./App-Da-KJahm.js";const t={name:"reservation-game"};function s(c,p,_,m,d,i){const e=o("page-crud");return r(),n(e,{"page-name":"reservation-game","page-key":"game","parent-name":"reservation-venue","parent-key":"venue"})}const g=a(t,[["render",s]]);export{g as default};

@@ -1,0 +1,1 @@
+import{_ as o,b as t,w as r,e as s,l as a,d as c,o as n}from"./App-Da-KJahm.js";const _={name:"infrastructure-assign-show",data(){return{}},methods:{}};function d(p,f,m,i,u,h){const e=c("form-create");return n(),t(e,{"with-helpdesk":""},{default:r(({combos:{},record:l,store:w})=>[s(a)]),_:1})}const $=o(_,[["render",d]]);export{$ as default};
