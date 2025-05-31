@@ -1,1 +1,0 @@
-import{_ as s,b as r,w as o,d as e,o as a}from"./App-Da-KJahm.js";const p={name:"reservation-setting-data"};function d(f,t,i,m,l,_){const n=e("form-data");return a(),r(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const x=s(p,[["render",d]]);export{x as default};

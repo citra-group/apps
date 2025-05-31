@@ -1,1 +1,0 @@
-import{_ as o,b as a,d as s,o as t}from"./App-Da-KJahm.js";const n={name:"myreservation-base"};function r(c,m,p,_,d,i){const e=s("page-base");return t(),a(e,{"module-name":"myreservation","module-key":"myreservation","module-type":"administrator"})}const u=o(n,[["render",r]]);export{u as default};

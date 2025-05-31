@@ -1,0 +1,1 @@
+import{_ as o,b as n,d as a,o as r}from"./App-DxUS_QIK.js";const t={name:"reservation-food"};function s(c,p,_,d,f,i){const e=a("page-crud");return r(),n(e,{"page-name":"reservation-food","page-key":"food","parent-name":"reservation-venue","parent-key":"venue"})}const u=o(t,[["render",s]]);export{u as default};

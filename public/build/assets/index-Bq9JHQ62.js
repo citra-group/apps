@@ -1,1 +1,0 @@
-import{_ as o,b as t,d as s,o as r}from"./App-Da-KJahm.js";const n={name:"reservation-customerset"};function a(c,p,_,m,u,d){const e=s("page-crud");return r(),t(e,{"page-name":"reservation-customerset","page-key":"customerset"})}const f=o(n,[["render",a]]);export{f as default};

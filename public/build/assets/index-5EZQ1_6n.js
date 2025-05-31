@@ -1,1 +1,0 @@
-import{_ as n,b as a,d as r,o as t}from"./App-Da-KJahm.js";const o={name:"reservation-training"};function s(c,p,i,_,d,m){const e=r("page-crud");return t(),a(e,{"page-name":"reservation-training","page-key":"training","parent-name":"reservation-venue","parent-key":"venue"})}const g=n(o,[["render",s]]);export{g as default};

@@ -1,0 +1,1 @@
+import{_ as t,b as r,w as o,e as a,l as s,d as c,o as n}from"./App-DxUS_QIK.js";const _={name:"infrastructure-assign-create",data(){return{}},methods:{}};function d(p,f,m,i,u,l){const e=c("form-create");return n(),r(e,{"with-helpdesk":""},{default:o(({combos:{},record:h,store:x})=>[a(s)]),_:1})}const k=t(_,[["render",d]]);export{k as default};

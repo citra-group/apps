@@ -1,0 +1,1 @@
+import{_ as a,b as t,w as n,d as s,o as r}from"./App-DxUS_QIK.js";const p={name:"reservation-dashboard"};function d(_,e,c,m,i,f){const o=s("page-home");return r(),t(o,{"page-name":"reservation-dashboard"},{default:n(()=>e[0]||(e[0]=[])),_:1})}const u=a(p,[["render",d]]);export{u as default};

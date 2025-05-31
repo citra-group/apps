@@ -1,0 +1,1 @@
+import{_ as n,b as a,d as o,o as r}from"./App-DxUS_QIK.js";const t={name:"reservation-field"};function s(c,p,_,d,i,f){const e=o("page-crud");return r(),a(e,{"page-name":"reservation-field","page-key":"field","parent-name":"reservation-venue","parent-key":"venue"})}const u=n(t,[["render",s]]);export{u as default};

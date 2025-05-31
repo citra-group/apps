@@ -1,0 +1,1 @@
+import{_ as r,b as t,w as n,d as a,o as s}from"./App-DxUS_QIK.js";const p={name:"reservation-report"};function c(_,e,d,i,f,l){const o=a("page-blank");return s(),t(o,{"page-name":"reservation-report","page-key":"report"},{default:n(({record:m})=>e[0]||(e[0]=[])),_:1})}const u=r(p,[["render",c]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as s,b as r,w as t,d as e,o as a}from"./App-DxUS_QIK.js";const p={name:"reservation-house-data"};function d(f,o,i,m,l,u){const n=e("form-data");return a(),r(n,null,{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const x=s(p,[["render",d]]);export{x as default};
